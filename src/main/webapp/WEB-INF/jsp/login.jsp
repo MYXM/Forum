@@ -20,13 +20,13 @@
 		<div class="col-md-12">
 			<div class="page-header">
 				<h1>
-					XX社区! <small>lol!</small>
+					<font color="white">千叶社区! <small>给你不一样的体验!</small></font>
 				</h1>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
-					<img alt="Bootstrap Image Preview" src="http://lorempixel.com/140/140/" class="img-thumbnail">
-				</div>
+<!-- 				<div class="col-md-6"> -->
+<!-- 					<img alt="Login_Left" src="resources/images/login_left.jpg" class="img-thumbnail"> -->
+<!-- 				</div> -->
 				<div class="col-md-6">
 					<ul class="nav nav-tabs">
 						<li class="active">
